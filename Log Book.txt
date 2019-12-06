@@ -1,0 +1,472 @@
+INFO
+
+Nama kelompok 	: ----
+Alamat Github 	: https://github.com/IvanJoel/Smart-LED.git
+Alamat Trello 	: https://trello.com/b/FwvJBkAD/tkppl
+Judul Topik 	: SMART LED
+
+Anggota 1
+Nama	: Togu Ivan Joel P. Panjaitan
+NIM	: 161112740
+
+Anggota 2
+Nama	: Iyen Yustatia Solin
+NIM	: 161112731
+
+Anggota 3
+Nama	: Sri Wahyuni Ningsih Sitompul
+NIM	: 161114058
+
+Anggota 4
+Nama	: Reni Yanti Br Nainggolan
+NIM	: 161112391
+
+Anggota 5
+Nama	: Karin Afrina
+NIM	: 161110803
+
+
+SPRINT
+Sprint 1 :
+29/11 - 02/12
+Scrum Master : Togu Ivan Joel P. Panjaitan
+
+Sprint 2 :
+03/12 - 05/12
+Scrum Master :
+
+Sprint 3 :
+06/12 - 07/12
+Scrum Master :
+
+Sprint 4 :
+08/12 - 09/12
+Scrum Master :
+
+Sprint 5 :
+10/12 - 11/12
+Scrum Master :
+
+
+Progres Harian
+
+29/11
+Daily Scrum
+(Togu)
+1. Membuat repository pada github
+2. Mengedit file pertama
+3. 
+
+(Iyen)
+1. Mengganti judul menjadi SMART LED
+2. 
+3. 
+
+(Sri)
+1. Membuat file baru
+2. 
+3. 
+
+(Reni)
+1. Mengedit file pertama yang telah di buat
+2. 
+3. 
+
+(Karin)
+1. Mengubah gambar pada file
+2. 
+3. 
+
+
+30/11
+Daily Scrum
+(Togu)
+1. 
+2. 
+3. 
+
+(Iyen)
+1. 
+2. 
+3. 
+
+(Sri)
+1. Mengedit judul menjadi Bespoke Presentasi
+2. Mengatur style judul
+3. 
+
+(Reni)
+1. 
+2. 
+3. 
+
+(Karin)
+1. Mengatur perubahan pada gambar sebelumnya
+2. 
+3. 
+
+01/12
+Daily Scrum
+(Togu)
+1. Melakukan edit Title
+2. 
+3. 
+
+(Iyen)
+1. 
+2. 
+3. 
+
+(Sri)
+1. 
+2. 
+3. 
+
+(Reni)
+1. 
+2. 
+3. 
+
+(Karin)
+1. 
+2. 
+3. 
+
+(Karin)
+1. 
+2. 
+3. 
+
+02/12
+Daily Scrum
+(Togu)
+1. Menambahkan cara menginstal SMART LED
+2. 
+3. 
+
+(Iyen)
+1. Menambahkan teks pada index.html
+2. 
+3. 
+
+(Sri)
+1. Menambahkan keterangan dari kelebihan 
+2. Menambahkan kekurangan pada HTML
+3. 
+
+(Reni)
+1. Menambahkan kekurangan pada HTML
+2. Menambahkan slide
+3. 
+
+(Karin)
+1. Menambahkan teks pada index.html
+2. 
+3. 
+
+(Karin)
+1. 
+2. 
+3. 
+
+
+
+
+03/12
+Daily Scrum
+(Togu)
+1. 
+2. 
+3. 
+
+(Iyen)
+1. 
+2. 
+3. 
+
+(Sri)
+1. 
+2. 
+3. 
+
+(Reni)
+1. 
+2. 
+3. 
+
+(Karin)
+1. 
+2. 
+3. 
+
+04/12
+Daily Scrum
+(Togu)
+1. 
+2. 
+3. 
+
+(Iyen)
+1. 
+2. 
+3. 
+
+(Sri)
+1. 
+2. 
+3. 
+
+(Reni)
+1. 
+2. 
+3. 
+
+(Karin)
+1. 
+2. 
+3. 
+
+
+05/12
+Daily Scrum
+(Togu)
+1. 
+2. 
+3. 
+
+(Iyen)
+1. 
+2. 
+3. 
+
+(Sri)
+1. 
+2. 
+3. 
+
+(Reni)
+1. 
+2. 
+3. 
+
+(Karin)
+1. 
+2. 
+3. 
+
+06/12
+Daily Scrum
+(Togu)
+1. 
+2. 
+3. 
+
+(Iyen)
+1. 
+2. 
+3. 
+
+(Sri)
+1. 
+2. 
+3. 
+
+(Reni)
+1. 
+2. 
+3. 
+
+(Karin)
+1. 
+2. 
+3. 
+
+07/12
+Daily Scrum
+(Togu)
+1. 
+2. 
+3. 
+
+(Iyen)
+1. 
+2. 
+3. 
+
+(Sri)
+1. 
+2. 
+3. 
+
+(Reni)
+1. 
+2. 
+3. 
+
+(Karin)
+1. 
+2. 
+3. 
+
+08/12
+Daily Scrum
+(Togu)
+1. 
+2. 
+3. 
+
+(Iyen)
+1. 
+2. 
+3. 
+
+(Sri)
+1. 
+2. 
+3. 
+
+(Reni)
+1. 
+2. 
+3. 
+
+(Karin)
+1. 
+2. 
+3. 
+
+09/12
+Daily Scrum
+(Togu)
+1. 
+2. 
+3. 
+
+(Iyen)
+1. 
+2. 
+3. 
+
+(Sri)
+1. 
+2. 
+3. 
+
+(Reni)
+1. 
+2. 
+3. 
+
+(Karin)
+1. 
+2. 
+3. 
+
+
+30/11
+Daily Scrum
+(Togu)
+1. 
+2. 
+3. 
+
+(Iyen)
+1. 
+2. 
+3. 
+
+(Sri)
+1. 
+2. 
+3. 
+
+(Reni)
+1. 
+2. 
+3. 
+
+(Karin)
+1. 
+2. 
+3. 
+
+10/12
+Daily Scrum
+(Togu)
+1. 
+2. 
+3. 
+
+(Iyen)
+1. 
+2. 
+3. 
+
+(Sri)
+1. 
+2. 
+3. 
+
+(Reni)
+1. 
+2. 
+3. 
+
+(Karin)
+1. 
+2. 
+3. 
+
+10/12
+Daily Scrum
+(Togu)
+1. 
+2. 
+3. 
+
+(Iyen)
+1. 
+2. 
+3. 
+
+(Sri)
+1. 
+2. 
+3. 
+
+(Reni)
+1. 
+2. 
+3. 
+
+(Karin)
+1. 
+2. 
+3. 
+
+11/12
+Daily Scrum
+(Togu)
+1. 
+2. 
+3. 
+
+(Iyen)
+1. 
+2. 
+3. 
+
+(Sri)
+1. 
+2. 
+3. 
+
+(Reni)
+1. 
+2. 
+3. 
+
+(Karin)
+1. 
+2. 
+3. 

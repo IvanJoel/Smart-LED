@@ -33,7 +33,7 @@ Scrum Master : Togu Ivan Joel P. Panjaitan
 
 Sprint 2 :
 03/12 - 05/12
-Scrum Master :
+Scrum Master : Reni Yanti Br Nainggolan
 
 Sprint 3 :
 06/12 - 07/12
@@ -175,45 +175,45 @@ Daily Scrum
 03/12
 Daily Scrum
 (Togu)
-1. 
-2. 
-3. 
+1. Tahap pembuatan SmartLED
+2. Perubahan slide
+3. Materi tambahan tentang tahapan pembuatan SmartLED
 
 (Iyen)
-1. 
-2. 
-3. 
+1. membuat slide sejarah SmartLED
+2. Menambahkan materi tentang sejarah smartLED
+3. Mengedit tampilan slide
 
 (Sri)
-1. 
-2. 
+1. Mengedit slide kekurangan dan kelebihan 
+2. Mengubah background slide kekurangan dan kelebihan
 3. 
 
 (Reni)
-1. 
-2. 
+1. Membuat slide pengertian SmartLED
+2. Mengedit slide
 3. 
 
 (Karin)
-1. 
-2. 
+1. membuat slide Fitur-fitur SmartLED
+2. Menambahkan fitur-fitur pada SmartLED
 3. 
 
 04/12
 Daily Scrum
 (Togu)
-1. 
+1. Menambah materi cara connect SmartLED
 2. 
 3. 
 
 (Iyen)
-1. 
-2. 
-3. 
+1. Membuat Slide Cara Kerja
+2. Menambahkan materi tentang cara kerja
+3. Mengedit Slide
 
 (Sri)
-1. 
-2. 
+1. Penambahan keterangan pada slide kelebihan
+2. penambahan keterangan pada kelebihan
 3. 
 
 (Reni)
@@ -222,8 +222,8 @@ Daily Scrum
 3. 
 
 (Karin)
-1. 
-2. 
+1. Slide Perkembangan SmartLED
+2. mengubah background
 3. 
 
 
@@ -235,14 +235,14 @@ Daily Scrum
 3. 
 
 (Iyen)
-1. 
-2. 
+1. Perbaikan slide sejarah SmartLED
+2. Perubahan slide sejarah SmartLED
 3. 
 
 (Sri)
-1. 
-2. 
-3. 
+1. menambah keterangan pada slide kekurangan
+2. Penambahan slide nama kelompok
+3. penambahan slide dan background
 
 (Reni)
 1. 
@@ -250,9 +250,9 @@ Daily Scrum
 3. 
 
 (Karin)
-1. 
-2. 
-3. 
+1. Ganti backround
+2. Pemberian warna pada slide Perkembangan SmartLED
+3. mengubah jenis tulisan pada slide
 
 06/12
 Daily Scrum

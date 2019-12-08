@@ -12,7 +12,6 @@ NIM	: 161112740
 Anggota 2
 Nama	: Iyen Yustatia Solin 
 NIM	: 161112731
-Srum Master : tgl 6 - 7 Desember 2019
 
 Anggota 3
 Nama	: Sri Wahyuni Ningsih Sitompul
@@ -38,7 +37,7 @@ Scrum Master : Reni Yanti Br Nainggolan
 
 Sprint 3 :
 06/12 - 07/12
-Scrum Master :
+Scrum Master : Iyen Yustatia Solin
 
 Sprint 4 :
 08/12 - 09/12

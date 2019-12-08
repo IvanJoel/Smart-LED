@@ -10,8 +10,9 @@ Nama	: Togu Ivan Joel P. Panjaitan
 NIM	: 161112740
 
 Anggota 2
-Nama	: Iyen Yustatia Solin
+Nama	: Iyen Yustatia Solin 
 NIM	: 161112731
+Srum Master : tgl 6 - 7 Desember 2019
 
 Anggota 3
 Nama	: Sri Wahyuni Ningsih Sitompul
@@ -255,11 +256,11 @@ Daily Scrum
 3. mengubah jenis tulisan pada slide
 
 06/12
-Daily Scrum
+Daily Scrum : Iyen Yustatia Solin
 (Togu)
-1. 
-2. 
-3. 
+1.Togu melakukan penambahan gambar pada langkah-langkah
+2. Melakukan perbaikan pada kesalahan gambar
+3. Tambah pertanyaan
 
 (Iyen)
 1. 
@@ -267,45 +268,45 @@ Daily Scrum
 3. 
 
 (Sri)
-1. 
-2. 
+1. Sri memperbaiki background
+2. Memperbaiki tampilan slide
 3. 
 
 (Reni)
-1. 
-2. 
+1.Reni mengubah jenis Smart Led 
+2.Reni menambah jenis-jenis dari Smart Led
 3. 
 
 (Karin)
-1. 
-2. 
-3. 
+1. Karin melakukan perbaikan dan menambah perkembangan
+2. Karin menambah slide dan mengatur background
+3. Memperbaiki rata kiri kanan
 
 07/12
 Daily Scrum
 (Togu)
-1. 
-2. 
+1.Togu menambah 1 pertanyaan
+2. Menambahkan file .txt
 3. 
 
 (Iyen)
-1. 
-2. 
+1.Iyen melakukan perubahan pada cara kerja 
+2.Iyen melakukan penambahan 
 3. 
 
 (Sri)
-1. 
+1.Sri melakukan perbaikan CSS untuk tampilan slide 
 2. 
 3. 
 
 (Reni)
-1. 
+1.Mengubah scrum Master
 2. 
 3. 
 
 (Karin)
-1. 
-2. 
+1.Karin menambah penjelasan fitur on/off 
+2.Karin mengganti warna font
 3. 
 
 08/12

@@ -1,0 +1,423 @@
+INFO
+
+Nama kelompok 	: ----
+Alamat Github 	: https://github.com/IvanJoel/Smart-LED.git
+Alamat Trello 	: https://trello.com/b/FwvJBkAD/tkppl
+Judul Topik 	: SMART LED
+
+Anggota 1
+Nama	: Togu Ivan Joel P. Panjaitan
+NIM	: 161112740
+
+Anggota 2
+Nama	: Iyen Yustatia Solin 
+NIM	: 161112731
+
+Anggota 3
+Nama	: Sri Wahyuni Ningsih Sitompul
+NIM	: 161114058
+
+Anggota 4
+Nama	: Reni Yanti Br Nainggolan
+NIM	: 161112391
+
+Anggota 5
+Nama	: Karin Afrina
+NIM	: 161110803
+
+
+SPRINT
+Sprint 1 :
+29/11 - 02/12
+Scrum Master : Togu Ivan Joel P. Panjaitan
+
+Sprint 2 :
+03/12 - 05/12
+Scrum Master : Reni Yanti Br Nainggolan
+
+Sprint 3 :
+06/12 - 07/12
+Scrum Master : Iyen Yustatia Solin
+
+Sprint 4 :
+08/12 - 09/12
+Scrum Master : karin afrina
+
+Sprint 5 :
+10/12 - 11/12
+Scrum Master :
+
+
+Progres Harian
+
+29/11
+Daily Scrum
+(Togu)
+1. Membuat repository pada github
+2. Mengedit file pertama
+3. 
+
+(Iyen)
+1. Mengganti judul menjadi SMART LED
+2. 
+3. 
+
+(Sri)
+1. Membuat file baru
+2. 
+3. 
+
+(Reni)
+1. Mengedit file pertama yang telah di buat
+2. 
+3. 
+
+(Karin)
+1. Mengubah gambar pada file
+2. 
+3. 
+
+
+30/11
+Daily Scrum
+(Togu)
+1. 
+2. 
+3. 
+
+(Iyen)
+1. 
+2. 
+3. 
+
+(Sri)
+1. Mengedit judul menjadi Bespoke Presentasi
+2. Mengatur style judul
+3. 
+
+(Reni)
+1. 
+2. 
+3. 
+
+(Karin)
+1. Mengatur perubahan pada gambar sebelumnya
+2. 
+3. 
+
+01/12
+Daily Scrum
+(Togu)
+1. Melakukan edit Title
+2. 
+3. 
+
+(Iyen)
+1. 
+2. 
+3. 
+
+(Sri)
+1. 
+2. 
+3. 
+
+(Reni)
+1. 
+2. 
+3. 
+
+(Karin)
+1. 
+2. 
+3. 
+
+(Karin)
+1. 
+2. 
+3. 
+
+02/12
+Daily Scrum
+(Togu)
+1. Menambahkan cara menginstal SMART LED
+2. 
+3. 
+
+(Iyen)
+1. Menambahkan teks pada index.html
+2. 
+3. 
+
+(Sri)
+1. Menambahkan keterangan dari kelebihan 
+2. Menambahkan kekurangan pada HTML
+3. 
+
+(Reni)
+1. Menambahkan kekurangan pada HTML
+2. Menambahkan slide
+3. 
+
+(Karin)
+1. Menambahkan teks pada index.html
+2. 
+3. 
+
+
+
+
+
+
+03/12
+Daily Scrum
+(Togu)
+1. Tahap pembuatan SmartLED
+2. Perubahan slide
+3. Materi tambahan tentang tahapan pembuatan SmartLED
+
+(Iyen)
+1. membuat slide sejarah SmartLED
+2. Menambahkan materi tentang sejarah smartLED
+3. Mengedit tampilan slide
+
+(Sri)
+1. Mengedit slide kekurangan dan kelebihan 
+2. Mengubah background slide kekurangan dan kelebihan
+3. 
+
+(Reni)
+1. Membuat slide pengertian SmartLED
+2. Mengedit slide
+3. 
+
+(Karin)
+1. membuat slide Fitur-fitur SmartLED
+2. Menambahkan fitur-fitur pada SmartLED
+3. 
+
+04/12
+Daily Scrum
+(Togu)
+1. Menambah materi cara connect SmartLED
+2. 
+3. 
+
+(Iyen)
+1. Membuat Slide Cara Kerja
+2. Menambahkan materi tentang cara kerja
+3. Mengedit Slide
+
+(Sri)
+1. Penambahan keterangan pada slide kelebihan
+2. penambahan keterangan pada kelebihan
+3. 
+
+(Reni)
+1. 
+2. 
+3. 
+
+(Karin)
+1. Slide Perkembangan SmartLED
+2. mengubah background
+3. 
+
+
+05/12
+Daily Scrum
+(Togu)
+1. 
+2. 
+3. 
+
+(Iyen)
+1. Perbaikan slide sejarah SmartLED
+2. Perubahan slide sejarah SmartLED
+3. 
+
+(Sri)
+1. menambah keterangan pada slide kekurangan
+2. Penambahan slide nama kelompok
+3. penambahan slide dan background
+
+(Reni)
+1. 
+2. 
+3. 
+
+(Karin)
+1. Ganti backround
+2. Pemberian warna pada slide Perkembangan SmartLED
+3. mengubah jenis tulisan pada slide
+
+06/12
+Daily Scrum : Iyen Yustatia Solin
+(Togu)
+1.Togu melakukan penambahan gambar pada langkah-langkah
+2. Melakukan perbaikan pada kesalahan gambar
+3. Tambah pertanyaan
+
+(Iyen)
+1. 
+2. 
+3. 
+
+(Sri)
+1. Sri memperbaiki background
+2. Memperbaiki tampilan slide
+3. 
+
+(Reni)
+1.Reni mengubah jenis Smart Led 
+2.Reni menambah jenis-jenis dari Smart Led
+3. 
+
+(Karin)
+1. Karin melakukan perbaikan dan menambah perkembangan
+2. Karin menambah slide dan mengatur background
+3. Memperbaiki rata kiri kanan
+
+07/12
+Daily Scrum
+(Togu)
+1.Togu menambah 1 pertanyaan
+2. Menambahkan file .txt
+3. 
+
+(Iyen)
+1.Iyen melakukan perubahan pada cara kerja 
+2.Iyen melakukan penambahan 
+3. 
+
+(Sri)
+1.Sri melakukan perbaikan CSS untuk tampilan slide 
+2. 
+3. 
+
+(Reni)
+1.Mengubah scrum Master
+2. 
+3. 
+
+(Karin)
+1.Karin menambah penjelasan fitur on/off 
+2.Karin mengganti warna font
+3. 
+
+08/12
+Daily Scrum : Karin Afrina
+(Togu)
+1. 
+2. 
+3. 
+
+(Iyen)
+1.iyen Mengedit daily master
+2.Iyen Menambah Cara kerja
+3. Iyen Edit cara kerja
+4. Iyen Mengedit tampilan
+
+(Sri)
+1. 
+2. 
+3. 
+
+(Reni)
+1. 
+2. 
+3. 
+
+(Karin)
+1. 
+2. 
+3. 
+
+09/12
+Daily Scrum : Karin Afrina
+(Togu)
+1. 
+2. 
+3. 
+
+(Iyen)
+1. Perbaikan Sejarah
+2. Perbaikan cara Kerja
+3. Mengubah tampilan cara kerja
+4. Perbaikan tampilan cara kerja
+
+
+(Sri)
+1. Mengedit Css Smart Led
+2. Memperbaiki tampilan awal slide dan slide nama kelompok
+3. 
+
+(Reni)
+1. Penambahan Jeni-jenis smartLed
+2. Menambahkan gambar smartled
+3. Membuat Slide Pengertian
+4. Mengubah
+
+(Karin)
+1. Menghapus background 
+2. Menambah slide Warna
+3. Menambah Tabel warna
+4. Menyusun tabel Warna
+
+
+
+10/12
+Daily Scrum
+(Togu)
+1. 
+2. 
+3. 
+
+(Iyen)
+1. 
+2. 
+3. 
+
+(Sri)
+1. 
+2. 
+3. 
+
+(Reni)
+1. 
+2. 
+3. 
+
+(Karin)
+1. 
+2. 
+3. 
+
+
+
+11/12
+Daily Scrum
+(Togu)
+1. 
+2. 
+3. 
+
+(Iyen)
+1. 
+2. 
+3. 
+
+(Sri)
+1. 
+2. 
+3. 
+
+(Reni)
+1. 
+2. 
+3. 
+
+(Karin)
+1. 
+2. 
+3. 

@@ -45,7 +45,7 @@ Scrum Master : karin afrina
 
 Sprint 5 :
 10/12 - 11/12
-Scrum Master :
+Scrum Master : Sri Wahyuni Ningsih Sitompul
 
 
 Progres Harian
@@ -369,13 +369,13 @@ Daily Scrum : Karin Afrina
 10/12
 Daily Scrum
 (Togu)
-1. 
+1. memperbaiki urutan pengerjaan
 2. 
 3. 
 
 (Iyen)
-1. 
-2. 
+1. tambah background cara kerja
+2. perubahan cara kerja
 3. 
 
 (Sri)
@@ -384,33 +384,35 @@ Daily Scrum
 3. 
 
 (Reni)
-1. 
-2. 
+1. memperbaiki tampilan pengertian LED dan SmartLED
+2. membuat penjelasan smartled philips
 3. 
 
 (Karin)
-1. 
-2. 
+1. Perbaikan Tabel warna2
+2. Mengngatur slide perkembangan
 3. 
 
 
 
 11/12
-Daily Scrum
+Daily Scrum : Sri Wahyuni Ningsih Sitompul
 (Togu)
-1. 
-2. 
+1. memperbaiki install
+2. menambah style
 3. 
 
 (Iyen)
-1. 
+1. perbaiki tampilan sejarah dan cara kerja
 2. 
 3. 
 
 (Sri)
-1. 
-2. 
-3. 
+1. menambah images pada slide kelebihan
+2. memperbaiki ukuran tampilan
+3. membuat tampilan text bergerak
+
+
 
 (Reni)
 1. 
@@ -418,6 +420,6 @@ Daily Scrum
 3. 
 
 (Karin)
-1. 
+1. Sejarah dan Perkembangan
 2. 
 3. 
